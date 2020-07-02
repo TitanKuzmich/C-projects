@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\проекты\project6\project6\source.cpp(100): warning C4101: iTemp: неиспользованная локальная переменная
+  Project6.vcxproj -> D:\Проекты\Project6\Debug\Project6.exe
